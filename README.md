@@ -1,6 +1,6 @@
 # Grayshade
 I personally felt the need of a platform where people can say anything to anyone without disclosing their identity .
-A platform where an employee can point out things to his boss ,a student can say anything to his teacher without the fear of its after effect.
+A platform where an employee can point out things to his boss ,a student can say anything to his teacher , people can confess to each other without the fear of its after effect.
 
 Grayshade is an anonymous social platform where :
 
